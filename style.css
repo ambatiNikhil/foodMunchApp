@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.food-image {
+    height: 70px;
+    width: 80px;
+}
+
+#navitem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navitem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navitem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navitem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-heading {
+    color: white;
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 40px;
+
+}
+
+.banner-caption {
+    color: white;
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 20px;
+
+}
+
+.button1 {
+    color: white;
+    height: 40px;
+    width: 136px;
+    background-color: orange;
+    border-width: 0px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.button-outline {
+    color: white;
+    height: 40px;
+    width: 136px;
+    background-color: transparent;
+    border-width: 0px;
+    border-radius: 10px;
+    margin-right: 10px;
+    border-color: white;
+    border-width: 1px;
+    border-radius: 8px;
+
+}
+
+.wcu-section {
+    background-color: #0eed60;
+}
+
+.wcu-heading {
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 700;
+    color: #183b56;
+}
+
+.wcu-description {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    color: #5a7184;
+}
+
+.logo-image {
+    height: 90px;
+    width: 85px;
+}
+
+.wcu-card {
+    background-color: white;
+    text-align: center;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 15px;
+
+}
+
+.card-heading {
+    font-family: Roboto;
+    color: brown;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.card-description {
+    font-family: Roboto;
+    color: black;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.offers {
+    font-weight: bold;
+    color: gray;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.explore-menu-section {
+    background-color: white;
+
+}
+
+.explore-menu-heading {
+    font-family: Roboto;
+    font-size: 35px;
+    font-weight: 700;
+    color: black;
+}
+
+.menu-image {
+    border-radius: 35px;
+}
+
+.menu-item-heading {
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 500;
+    color: #323f4b;
+}
+
+.menu-items-link {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 300;
+    color: #d0b200;
+}
+
+.menu-item-card {
+    border-radius: 30px;
+}
+
+.fresh-food-section {
+    background-color: #f9fbfe;
+    ;
+}
+
+.image {
+    width: 270px;
+    margin: 10px;
+}
+
+.healthy-food-section-heading {
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+}
+
+.healthy-food-section-description {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 200;
+    color: gray;
+
+}
+
+.custom-button {
+    background-image: linear-gradient(#d0b200, #a58d00);
+    height: 40px;
+    width: 120px;
+    border-radius: 15px;
+    border-width: 0px;
+    color: white;
+}
+
+.Gift-modle-title {
+    color: #d0b200;
+    font-weight: 800;
+}
+
+.delivery-payment-section {
+    background-color: white;
+
+}
+
+.delivery-and-payment-section-heading {
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+}
+
+.delivery-and-payment-section-description {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 200;
+    color: gray;
+}
+
+.payment-card-img {
+    height: 75px;
+    width: 75px;
+    margin-left: 10px;
+}
+
+.thanking-customers-section {
+    background-image: radial-gradient(#fae38c, #fff8db);
+}
+
+.thanking-customers-section-heading {
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+}
+
+.thanking-customers-section-description {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 200;
+    color: gray;
+}
+
+.fallow-heading {
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: bold;
+    color: blue;
+}
+
+.fallow-us-container {
+    border-radius: 40px;
+    height: 80px;
+    width: 80px;
+    background-color: #faf7e8;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+    margin: 15px;
+
+}
+
+.i-con {
+    font-size: 35px;
+}
